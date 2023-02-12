@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sstream": "cpp",
+        "initializer_list": "cpp",
+        "limits": "cpp"
+    }
+}
